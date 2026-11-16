@@ -12,6 +12,8 @@
 <img src="docs/terminal-insecure.png" width="820" alt="Terminal output of the auditor">
 
 </div>
+> 🎥 **[Watch the demo video →](docs/demo.mp4)** (download to play)
+
 
 ---
 
